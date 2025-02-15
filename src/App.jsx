@@ -10,8 +10,8 @@ function App() {
 
   return (
     <>
+      <Hero></Hero>
       <Nav></Nav>
-      <Hero />
     </>
   )
 }
